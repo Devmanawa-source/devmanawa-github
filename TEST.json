@@ -6,5 +6,7 @@
     "properties": {
         "pricingTier": "Standard",
         "subPlan": "PerSubscription"
+        test
+        test2
     }
 }
