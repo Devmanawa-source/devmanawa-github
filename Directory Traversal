@@ -1,0 +1,4 @@
+<?php
+    $file = $_GET['file'];
+    file_get_contents('directory/' . $file);
+?>
